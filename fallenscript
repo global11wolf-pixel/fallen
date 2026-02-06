@@ -77,7 +77,7 @@ end;
 
 --// FALLEN anticheat Bypass!!!
 (function()
-	if game.PlaceId ~= 17574618959 then --// I need this region to be completely cut off from everythning else soooo
+	if game.PlaceId ~= 168556275 then --// I need this region to be completely cut off from everythning else soooo
 		local Players = cloneref(game:GetService("Players"))
 		local Client = Players.LocalPlayer; 
 
